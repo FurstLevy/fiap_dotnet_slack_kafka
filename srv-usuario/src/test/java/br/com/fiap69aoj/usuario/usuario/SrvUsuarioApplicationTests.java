@@ -1,13 +1,13 @@
-package br.com.fiap69aoj.usuario.usuario;
+// package br.com.fiap69aoj.usuario.usuario;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class SrvUsuarioApplicationTests {
+// @SpringBootTest
+// class SrvUsuarioApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }

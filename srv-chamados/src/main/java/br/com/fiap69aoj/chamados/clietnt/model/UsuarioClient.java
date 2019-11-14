@@ -14,7 +14,7 @@ import java.util.Optional;
 @Service
 public class UsuarioClient {
 
-	private static final String URL_USUARIO_CLIENT = "http://localhost:8181/usuarios/{idAcesso}";
+	private static final String URL_USUARIO_CLIENT = "http://usuarios:8181/usuarios/{idAcesso}";
 
 	@Autowired
 	private RestTemplate restTemplate;
